@@ -225,7 +225,7 @@ const InvoicePage: FC<Props> = ({ data, pdfMode, onChange }) => {
                 />
               </View>
             </View>
-            {/* <View className="flex mb-5" pdfMode={pdfMode}>
+            <View className="flex mb-5" pdfMode={pdfMode}>
               <View className="w-40" pdfMode={pdfMode}>
                 <EditableInput
                   className="bold dark mb-5"
@@ -247,8 +247,8 @@ const InvoicePage: FC<Props> = ({ data, pdfMode, onChange }) => {
                   pdfMode={pdfMode}
                 />
               </View>
-            </View> */}
-            {/* <View className="flex mb-5" pdfMode={pdfMode}>
+            </View>
+            <View className="flex mb-5" pdfMode={pdfMode}>
               <View className="w-40" pdfMode={pdfMode}>
                 <EditableInput
                   className="bold dark mb-5"
@@ -270,7 +270,7 @@ const InvoicePage: FC<Props> = ({ data, pdfMode, onChange }) => {
                   pdfMode={pdfMode}
                 />
               </View>
-            </View> */}
+            </View>
           </View>
         </View>
 
@@ -287,7 +287,6 @@ const InvoicePage: FC<Props> = ({ data, pdfMode, onChange }) => {
             <EditableInput
               className="white bold right"
               value={'Permasa'}
-              onChange={(value) => handleChange('productLineSize', value)}
               pdfMode={pdfMode}
             />
           </View>

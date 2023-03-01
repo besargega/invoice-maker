@@ -4,6 +4,7 @@ export const initialProductLine: ProductLine = {
   description: '',
   quantity: '1',
   rate: '0.00',
+  size: '2'
 }
 
 export const initialInvoice: Invoice = {

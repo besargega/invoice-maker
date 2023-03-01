@@ -34,7 +34,6 @@ export interface Invoice {
   productLineQuantity: string
   productLineQuantityRate: string
   productLineQuantityAmount: string
-  productLineSize: string
 
   productLines: ProductLine[]
 

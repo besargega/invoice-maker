@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09e180cc86afc2873d60a4469a5dcaa6",
+    "revision": "2a5d925ac8d09658a7ff96e41cbaef5a",
     "url": "/invoice-maker/index.html"
   },
   {
-    "revision": "be1df6c2f7ecc5e1b93d",
+    "revision": "eaee5ac2938086557286",
     "url": "/invoice-maker/static/css/main.9eeb420b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/invoice-maker/static/js/2.8e8e8abd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "be1df6c2f7ecc5e1b93d",
-    "url": "/invoice-maker/static/js/main.23b14f8d.chunk.js"
+    "revision": "eaee5ac2938086557286",
+    "url": "/invoice-maker/static/js/main.b5598c8e.chunk.js"
   },
   {
     "revision": "6d257acd0aa29c7db6b4",

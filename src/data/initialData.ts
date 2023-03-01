@@ -35,6 +35,7 @@ export const initialInvoice: Invoice = {
       description: 'Brochure Design',
       quantity: '2',
       rate: '100.00',
+      size: '2',
     },
     { ...initialProductLine },
     { ...initialProductLine },

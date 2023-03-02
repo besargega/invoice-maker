@@ -4,7 +4,6 @@ import { Image } from '@react-pdf/renderer'
 import useOnClickOutside from '../hooks/useOnClickOutside'
 import compose from '../styles/compose'
 import 'rc-slider/assets/index.css'
-import logo from '../images/logo.jpg'
 
 interface Props {
   className?: string
@@ -78,7 +77,7 @@ const EditableFileImage: FC<Props> = ({ className, placeholder, value, width, on
       return (
         <Image
           style={{...compose(`image ${className ? className : ''}`), maxWidth: width}}
-          src={logo}
+          src={value}
         />
       )
     } else {
@@ -99,7 +98,7 @@ const EditableFileImage: FC<Props> = ({ className, placeholder, value, width, on
       ) : (
         <>
           <img
-            src={logo}
+            src={value}
             className="image__img"
             alt={placeholder}
             style={{ maxWidth: width || 100}}

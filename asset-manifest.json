@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/invoice-maker/static/css/main.9eeb420b.chunk.css",
-    "main.js": "/invoice-maker/static/js/main.d688145e.chunk.js",
-    "main.js.map": "/invoice-maker/static/js/main.d688145e.chunk.js.map",
+    "main.css": "/invoice-maker/static/css/main.168aac4c.chunk.css",
+    "main.js": "/invoice-maker/static/js/main.95bf10fe.chunk.js",
+    "main.js.map": "/invoice-maker/static/js/main.95bf10fe.chunk.js.map",
     "runtime-main.js": "/invoice-maker/static/js/runtime-main.3f332809.js",
     "runtime-main.js.map": "/invoice-maker/static/js/runtime-main.3f332809.js.map",
-    "static/css/2.903596ff.chunk.css": "/invoice-maker/static/css/2.903596ff.chunk.css",
-    "static/js/2.a621ccb5.chunk.js": "/invoice-maker/static/js/2.a621ccb5.chunk.js",
-    "static/js/2.a621ccb5.chunk.js.map": "/invoice-maker/static/js/2.a621ccb5.chunk.js.map",
+    "static/css/2.ecfe6fe9.chunk.css": "/invoice-maker/static/css/2.ecfe6fe9.chunk.css",
+    "static/js/2.3651f0d4.chunk.js": "/invoice-maker/static/js/2.3651f0d4.chunk.js",
+    "static/js/2.3651f0d4.chunk.js.map": "/invoice-maker/static/js/2.3651f0d4.chunk.js.map",
     "index.html": "/invoice-maker/index.html",
-    "precache-manifest.d5d23cbd12b41a331c2b5c801658ca54.js": "/invoice-maker/precache-manifest.d5d23cbd12b41a331c2b5c801658ca54.js",
+    "precache-manifest.35a5728f6f5d289616c66b439a958d9c.js": "/invoice-maker/precache-manifest.35a5728f6f5d289616c66b439a958d9c.js",
     "service-worker.js": "/invoice-maker/service-worker.js",
-    "static/css/2.903596ff.chunk.css.map": "/invoice-maker/static/css/2.903596ff.chunk.css.map",
-    "static/css/main.9eeb420b.chunk.css.map": "/invoice-maker/static/css/main.9eeb420b.chunk.css.map",
-    "static/js/2.a621ccb5.chunk.js.LICENSE.txt": "/invoice-maker/static/js/2.a621ccb5.chunk.js.LICENSE.txt",
+    "static/css/2.ecfe6fe9.chunk.css.map": "/invoice-maker/static/css/2.ecfe6fe9.chunk.css.map",
+    "static/css/main.168aac4c.chunk.css.map": "/invoice-maker/static/css/main.168aac4c.chunk.css.map",
+    "static/js/2.3651f0d4.chunk.js.LICENSE.txt": "/invoice-maker/static/js/2.3651f0d4.chunk.js.LICENSE.txt",
     "static/media/browser.cjs": "/invoice-maker/static/media/browser.5ef5f772.cjs",
     "static/media/main.scss": "/invoice-maker/static/media/resize.d4da359f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3f332809.js",
-    "static/css/2.903596ff.chunk.css",
-    "static/js/2.a621ccb5.chunk.js",
-    "static/css/main.9eeb420b.chunk.css",
-    "static/js/main.d688145e.chunk.js"
+    "static/css/2.ecfe6fe9.chunk.css",
+    "static/js/2.3651f0d4.chunk.js",
+    "static/css/main.168aac4c.chunk.css",
+    "static/js/main.95bf10fe.chunk.js"
   ]
 }
